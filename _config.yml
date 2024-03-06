@@ -21,10 +21,11 @@ author: Bianca Liebhaber | Business Analyst
 
 navbar-links:
   About Me: "aboutme"
+  Resume: "resume"
   Resources:
     - LinkedIn: "https://www.linkedin.com/in/biancaliebhaber"
     - Iron Betties Shop: "https://www.redbubble.com/people/ironbetties/shop#profile"
-    - Learn markdown: "https://www.markdowntutorial.com/"
+
 
 ################
 # --- Logo --- #

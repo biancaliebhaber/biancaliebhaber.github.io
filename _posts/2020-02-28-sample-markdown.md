@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: Group Chat Wrapped
 subtitle: A chat thread analysis between a group of friends. Inspired by Spotify's annual Wrapped feature. 
 gh-repo: daattali/beautiful-jekyll

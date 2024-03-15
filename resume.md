@@ -13,4 +13,4 @@ What else do you need?
 
 ### My story
 
-[Printable Resume PDF](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29).
+[Printable Resume PDF](https://biancaliebhaber.github.io/Bianca%20Liebhaber%20Resume.pdf).

@@ -21,8 +21,8 @@ Biologist turned Business Analyst with a proven track record in leveraging data-
         Feb 2017 - Present
     </span>
 </p
-	
-Lead Music Programmer<br/>
+
+Lead Music Programmer
 
 <p style="text-align:left;">
     <b>Amazon | Amazon Music, Seattle, WA</b>

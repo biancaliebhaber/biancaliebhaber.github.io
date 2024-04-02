@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About Me
-subtitle: Passionate Professional in Business Intelligence
+subtitle: Passionate Professional in the field of Business Intelligence.
 ---
 
 ![yonkers](https://biancaliebhaber.github.io/assets/img/yonkers.jpeg){: .mx-auto.d-block :}
@@ -9,7 +9,7 @@ subtitle: Passionate Professional in Business Intelligence
 ## Hello! My name is Bianca.
 
 🌐 **Background**
-I am a Business Analyst with a proven track record in Business Intelligence. With a foundation in research science, I have harnessed my intellectual curiosity and analytical experience into the field of business intelligence for 5+ years.  
+I am a professional Business Analyst in the field of Business Intelligence. With a foundation in research science, I have harnessed my intellectual curiosity and analytical experience into the industry of Consumer Product Technology for 5+ years. I specialize in product performance to help businesses understand the user journey to boost engagement and drive growth through data-driven decisions.
 
 📈 **What Drives Me**
 I am motivated by a curiosity to learn! I feel most rewarded at work when I can apply my comprehensive stack of expertise to drive business insights across new programs and technical challenges.

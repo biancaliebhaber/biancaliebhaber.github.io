@@ -27,3 +27,32 @@ Best known for:
     <span style="float:right;">
         Feb 2017 - Present
     </span>
+Lead Music Programmer
+    
+<p style="text-align:left;">
+    <b>Amazon | Amazon Music, Seattle, WA</b>
+    <span style="float:right;">
+        Jan 2019 - Jan 2024
+    </span>
+	
+Business Analyst II<br/>
+*Dec 2021 - Jan 2024* <br/>
+
+Business Analyst I<br/>			
+*Aug 2021 - Nov 2021* <br/>
+
+Catalog Specialist I<br/>
+*Jan 2019 - July 2021*<br/> 
+
+<p style="text-align:left;">
+    <b>MediaNet, Seattle, WA</b>
+    <span style="float:right;">
+        Sep 2017 - Dec 2018
+    </span>
+	
+Music Content Coordinator<br/>			        			                 
+
+## Education
+***
+**Bachelor of Science, B.Sc. Molecular, Cellular and Developmental Biology**<br/>
+University of Washington, Seattle, WA	

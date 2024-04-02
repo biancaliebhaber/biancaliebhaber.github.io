@@ -6,7 +6,13 @@ title: Resume
 ## Summary
 ***
 Biologist turned Business Analyst with a proven track record in leveraging data-driven insights to power operational efficiencies and enhance business performance.<br/>
-*Best known for tenacious problem-solving ability, swift technical skill development, translation of short-term needs into a long-term vision, a desire to mentor others as well as delightful elevator conversation.*
+
+Best known for:
+- [x] tenacious problem-solving ability.
+- [x] swift technical skill development.
+- [x] translation of short-term needs into a long-term vision.
+- [x] a desire to mentor others.
+- [x] delightful elevator conversation.
 
 ## Core Competencies
 ***
@@ -22,34 +28,3 @@ Biologist turned Business Analyst with a proven track record in leveraging data-
         Feb 2017 - Present
     </span>
 </p
-
-
-<p style="text-align:left;">
-    <b>Amazon | Amazon Music, Seattle, WA</b>
-    <span style="float:right;">
-        Jan 2019 - Jan 2024
-    </span>
-</p		
-	
-Business Analyst II<br/>
-*Dec 2021 - Jan 2024* <br/>
-
-Business Analyst I<br/>			
-*Aug 2021 - Nov 2021* <br/>
-
-Catalog Specialist I<br/>
-*Jan 2019 - July 2021*<br/> 
-
-<p style="text-align:left;">
-    <b>MediaNet, Seattle, WA</b>
-    <span style="float:right;">
-        Sep 2017 - Dec 2018
-    </span>
-</p	
-	
-Music Content Coordinator<br/>			        			                 
-
-## Education
-***
-**Bachelor of Science, B.Sc. Molecular, Cellular and Developmental Biology**<br/>
-University of Washington, Seattle, WA	

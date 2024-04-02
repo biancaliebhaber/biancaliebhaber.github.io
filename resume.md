@@ -5,7 +5,8 @@ title: Resume
 [Printable Resume PDF](https://biancaliebhaber.github.io/Bianca%20Liebhaber%20Resume.pdf)
 ## Summary
 ***
-Biologist turned Business Analyst with a proven track record in leveraging data-driven insights to power operational efficiencies and enhance business performance. Adept at transforming complex requirements into actionable solutions, optimizing processes through automation, and facilitating informed decision-making. Demonstrated expertise in data design approaches and analysis techniques. Best known for tenacious problem-solving ability, swift technical skill development, translation of short-term needs into a long-term vision, a desire to mentor others as well as delightful elevator conversation.
+Biologist turned Business Analyst with a proven track record in leveraging data-driven insights to power operational efficiencies and enhance business performance.<br/>
+*Best known for tenacious problem-solving ability, swift technical skill development, translation of short-term needs into a long-term vision, a desire to mentor others as well as delightful elevator conversation.*
 
 ## Core Competencies
 ***
@@ -16,7 +17,7 @@ Biologist turned Business Analyst with a proven track record in leveraging data-
 ## Professional Experience
 ***
 <p style="text-align:left;">
-    <b>Barber Entertainment Corp, Redmond, WA</b>
+    Barber Entertainment Corp, Redmond, WA
     <span style="float:right;">
         Feb 2017 - Present
     </span>

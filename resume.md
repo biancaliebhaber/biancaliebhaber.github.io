@@ -17,13 +17,12 @@ Biologist turned Business Analyst with a proven track record in leveraging data-
 ## Professional Experience
 ***
 <p style="text-align:left;">
-    Barber Entertainment Corp, Redmond, WA
+    <b>Barber Entertainment Corp, Redmond, WA</b>
     <span style="float:right;">
         Feb 2017 - Present
     </span>
 </p
 
-Lead Music Programmer
 
 <p style="text-align:left;">
     <b>Amazon | Amazon Music, Seattle, WA</b>

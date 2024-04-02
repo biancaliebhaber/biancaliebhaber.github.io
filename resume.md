@@ -8,11 +8,11 @@ title: Resume
 Biologist turned Business Analyst with a proven track record in leveraging data-driven insights to power operational efficiencies and enhance business performance.<br/>
 
 Best known for:
-- [x] tenacious problem-solving ability.
-- [x] swift technical skill development.
-- [x] translation of short-term needs into a long-term vision.
-- [x] a desire to mentor others.
-- [x] delightful elevator conversation.
+[x] tenacious problem-solving ability.
+[x] swift technical skill development.
+[x] translation of short-term needs into a long-term vision.
+[x] a desire to mentor others.
+[x] delightful elevator conversation.
 
 ## Core Competencies
 ***
@@ -27,7 +27,8 @@ Best known for:
     <span style="float:right;">
         Feb 2017 - Present
     </span>
-Lead Music Programmer
+<p style="text-align:left;">
+	Lead Music Programmer
     
 <p style="text-align:left;">
     <b>Amazon | Amazon Music, Seattle, WA</b>

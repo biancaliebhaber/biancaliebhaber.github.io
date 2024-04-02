@@ -4,6 +4,10 @@ title: About Me
 subtitle: Passionate Professional in Business Intelligence
 ---
 
+![yonkers](https://biancaliebhaber.github.io/assets/img/yonkers.jpeg){: .mx-auto.d-block :}
+
+## Hello! My name is Bianca
+
 🌐 **Background**
 I am a Business Analyst with a proven track record in Business Intelligence. With a foundation in research science, I have harnessed my intellectual curiosity and analytical experience into the field of business intelligence for 5+ years.  
 

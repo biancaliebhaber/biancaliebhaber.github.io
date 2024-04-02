@@ -39,4 +39,31 @@ Music Content Coordinator<br/>
 **Bachelor of Science, B.Sc. Molecular, Cellular and Developmental Biology**<br/>
 University of Washington, Seattle, WA	
 
+<style>
+  .centered {
+    text-align: center; 
+	font-family: 'Open Sans'
+  }
+  
+  .centered a {
+    padding: 16px 34px; 
+	font-size: 26px; 
+	margin-top: 10px; 
+	margin-left: 8px; 
+	margin-right: 8px;
+  }
+</style> 
+
+<div class="centered">
+  <a class="btn btn-dark btn-lg" href="/aboutme">About Me</a>
+  <a class="btn btn-dark btn-lg" href="/resume">Resume</a>
+  <a class="btn btn-dark btn-lg" href="/projects">Projects</a>
+</div>
+
+<p style="text-align:left;">
+    ABC university
+    <span style="float:right;">
+        Aug - Dec 2020
+    </span>
+</p>
 

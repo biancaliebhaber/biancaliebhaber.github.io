@@ -27,4 +27,3 @@ Best known for:
     <span style="float:right;">
         Feb 2017 - Present
     </span>
-</p

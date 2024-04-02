@@ -16,58 +16,40 @@ Biologist turned Business Analyst with a proven track record in leveraging data-
 ## Professional Experience
 ***
 <p style="text-align:left;">
-    **Barber Entertainment Corp**, Redmond, WA
+    <b>Barber Entertainment Corp, Redmond, WA</b>
     <span style="float:right;">
         Feb 2017 - Present
     </span>
-</p>
-*Lead Music Programmer*						        			                 
+</p
+	
+Lead Music Programmer<br/>
 
-**Amazon | Amazon Music**, Seattle, WA<br/>
-*Jan 2019 - Jan 2024*<br/>			
-Business Analyst II<br/>			
+<p style="text-align:left;">
+    <b>Amazon | Amazon Music, Seattle, WA</b>
+    <span style="float:right;">
+        Jan 2019 - Jan 2024
+    </span>
+</p		
+	
+Business Analyst II<br/>
 *Dec 2021 - Jan 2024* <br/>
 
 Business Analyst I<br/>			
 *Aug 2021 - Nov 2021* <br/>
 
 Catalog Specialist I<br/>
-*Jan 2019 - July 2021* <br/>
+*Jan 2019 - July 2021*<br/> 
 
-**MediaNet**, Seattle, WA<br/>
-*Feb 2017 - Present* <br/>
+<p style="text-align:left;">
+    <b>MediaNet, Seattle, WA</b>
+    <span style="float:right;">
+        Sep 2017 - Dec 2018
+    </span>
+</p	
+	
 Music Content Coordinator<br/>			        			                 
 
 ## Education
 ***
 **Bachelor of Science, B.Sc. Molecular, Cellular and Developmental Biology**<br/>
 University of Washington, Seattle, WA	
-
-<style>
-  .centered {
-    text-align: center; 
-	font-family: 'Open Sans'
-  }
-  
-  .centered a {
-    padding: 16px 34px; 
-	font-size: 26px; 
-	margin-top: 10px; 
-	margin-left: 8px; 
-	margin-right: 8px;
-  }
-</style> 
-
-<div class="centered">
-  <a class="btn btn-dark btn-lg" href="/aboutme">About Me</a>
-  <a class="btn btn-dark btn-lg" href="/resume">Resume</a>
-  <a class="btn btn-dark btn-lg" href="/projects">Projects</a>
-</div>
-
-<p style="text-align:left;">
-    ABC university
-    <span style="float:right;">
-        Aug - Dec 2020
-    </span>
-</p>
-

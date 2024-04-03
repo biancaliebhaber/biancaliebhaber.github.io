@@ -26,26 +26,34 @@ Best known for:
     <b>Barber Entertainment Corp</b>, Redmond, WA
     <span style="float:right;">
         Feb 2017 - Present
-<br style="text-align:left;"/>
+<p style="text-align:left;">
 	<i>Lead Music Programmer</i>
 <br style="text-align:left;"/>
 Head of music program for our primary client with streaming in over 350 stores nationwide.
 	
 <p style="text-align:left;"> 
-    <b>Amazon | Amazon Music, Seattle, WA</b>
+    <b>Amazon | Amazon Music</b>, Seattle, WA
     <span style="float:right;">
         Jan 2019 - Jan 2024
-    </span>
+<p style="text-align:left;">
+	<i>Business Analyst II</i>	
+<br style="text-align:left;"/>
+Dec 2021 - Jan 2024
+<br style="text-align:left;"/>
+Business Intelligence (BI) analyst in the Data Insights Science and Optimization organization under Consumer Product Technology.
+<p style="text-align:left;">
+	<i>Business Analyst I</i>	
+<br style="text-align:left;"/>
+Aug 2021 - Nov 2021
+<br style="text-align:left;"/>
+Dedicated in-house analyst for the Catalog organization under Consumer Product Technology.
+<p style="text-align:left;">
+	<i>Catalog Specialist I</i>	
+<br style="text-align:left;"/>
+Jan 2019 - Jul 2021
+<br style="text-align:left;"/>
+Genre metadata specialist on the editorial team for the Catalog organization.
 	
-Business Analyst II<br/>
-*Dec 2021 - Jan 2024* <br/>
-
-Business Analyst I<br/>			
-*Aug 2021 - Nov 2021* <br/>
-
-Catalog Specialist I<br/>
-*Jan 2019 - July 2021*<br/> 
-
 <p style="text-align:left;">
     <b>MediaNet, Seattle, WA</b>
     <span style="float:right;">

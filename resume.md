@@ -36,7 +36,7 @@ Head of music program for our primary client with streaming in over 350 stores n
         Jan 2019 - Jan 2024
 <p style="text-align:left;">
 	<i>Business Analyst II</i>	
-<br style="text-align:left;"/>
+<span style="float:right;">
 Dec 2021 - Jan 2024
 <br style="text-align:left;"/>
 Business Intelligence (BI) analyst in the Data Insights Science and Optimization organization under Consumer Product Technology.

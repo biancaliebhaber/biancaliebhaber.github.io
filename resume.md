@@ -28,21 +28,25 @@ Best known for:
  <br/>
  <br/>
 <img align="left" width="75" height="75" src="https://biancaliebhaber.github.io/assets/img/amazon_music.png">
+  <br/> 
  &nbsp;<b>Amazon | Amazon Music</b>, Seattle, WA <br/> 
- &nbsp;Jan 2019 - Jan 2024<br/> 
+ &nbsp;Jan 2019 - Jan 2024
+ <br/> 
  <br/>
 <img align="left" width="75" height="75" src="https://biancaliebhaber.github.io/assets/img/gray-vertical-line.png">
  &nbsp;<i>Business Analyst II</i> <br/> 
- &nbsp;Dec 2021 - Jan 2024<br/> 
-<br/>
+ &nbsp;Dec 2021 - Jan 2024
+ <br/> 
+ <br/>
  <img align="left" width="75" height="75" src="https://biancaliebhaber.github.io/assets/img/gray-vertical-line.png">
  &nbsp;<i>Business Analyst I</i> <br/> 
- &nbsp;Aug 2021 - Nov 2021<br/> 
+ &nbsp;Aug 2021 - Nov 2021
+ <br/> 
  <br/> 
  <img align="left" width="75" height="75" src="https://biancaliebhaber.github.io/assets/img/gray-vertical-line.png">
  &nbsp;<i>Catalog Specialist I</i> <br/> 
- &nbsp;Jan 2019 - Jul 2021<br/> 
- <br/>
+ &nbsp;Jan 2019 - Jul 2021
+ <br/> 
  <br/>
  <img align="left" width="75" height="75" src="https://biancaliebhaber.github.io/assets/img/medianet.jpeg">
  &nbsp;<b>MediaNet</b>, Seattle, WA <br/> 

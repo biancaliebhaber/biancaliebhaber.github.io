@@ -9,7 +9,7 @@ subtitle: Passionate Professional in the field of Business Intelligence.
 ## Hello! My name is Bianca.
 
 🌐 **Background**
-I am a Business Analyst based in Seattle, WA. With a foundation in research science, I have harnessed my intellectual curiosity and analytical experience into the field of Business Intelligence for 5+ years. I specialize in industry of Consumer Product Technology to help businesses understand the user journey to boost engagement and drive growth through data-driven decisions.
+I am a Business Analyst based in Seattle, WA. With a foundation in research science, I have harnessed my intellectual curiosity and analytical experience into the field of Business Intelligence for 5+ years. I specialize in Consumer Product Technology to help businesses understand the user journey, boost performance and drive growth through data-driven decisions.
 
 📈 **What Drives Me**
 I am motivated by a curiosity to learn! I feel most rewarded at work when I can apply my comprehensive stack of expertise to drive business insights across new programs and technical challenges.

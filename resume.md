@@ -28,9 +28,9 @@ Best known for:
  <br/>
  <br/>
 <img align="left" width="75" height="75" src="https://biancaliebhaber.github.io/assets/img/amazon_music.png">
-  <br/> 
- &nbsp; &nbsp;<b>Amazon | Amazon Music</b>, Seattle, WA <br/> 
- &nbsp; &nbsp;Jan 2019 - Jan 2024
+ &nbsp; &nbsp;<b>Amazon |</b><br/> 
+ &nbsp; &nbsp;<b>Amazon Music</b>, Seattle, WA<br/> 
+ &nbsp; &nbsp;Jan 2019 - Jan 2024<br/> 
  <br/> 
  <br/>
 <img align="left" width="75" height="75" src="https://biancaliebhaber.github.io/assets/img/gray-vertical-line.png">
@@ -49,9 +49,9 @@ Best known for:
  <br/> 
  <br/>
  <img align="left" width="75" height="75" src="https://biancaliebhaber.github.io/assets/img/medianet.jpeg">
- &nbsp;<b>MediaNet</b>, Seattle, WA <br/> 
- &nbsp; &nbsp;Sep 2017 - Dec 2018<br/> 
- &nbsp; &nbsp;<i>Music Content Coordinator</i>
+ &nbsp;&nbsp;<b>MediaNet</b>, Seattle, WA <br/> 
+ &nbsp;&nbsp;Sep 2017 - Dec 2018<br/> 
+ &nbsp;&nbsp;<i>Music Content Coordinator</i>
 
 
 

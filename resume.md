@@ -62,6 +62,8 @@ Genre metadata specialist on the editorial team for the Catalog organization.
 <br style="text-align:left;"/>
 Metadata specialist for a digital music catalog.
 
+<p> </p>
+
 ## Education
 ***
 **Bachelor of Science, B.Sc. Molecular, Cellular and Developmental Biology**<br/>

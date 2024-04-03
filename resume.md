@@ -27,10 +27,11 @@ Best known for:
  &nbsp; &nbsp;<i>Lead Music Programmer</i>
  <br/>
  <br/>
+ <br/> 
 <img align="left" width="75" height="75" src="https://biancaliebhaber.github.io/assets/img/amazon_music.png">
  &nbsp; &nbsp;<b>Amazon |</b><br/> 
  &nbsp; &nbsp;<b>Amazon Music</b>, Seattle, WA<br/> 
- &nbsp; &nbsp;Jan 2019 - Jan 2024<br/> 
+ &nbsp; &nbsp;Jan 2019 - Jan 2024
  <br/> 
  <br/>
 <img align="left" width="75" height="75" src="https://biancaliebhaber.github.io/assets/img/gray-vertical-line.png">
@@ -48,6 +49,7 @@ Best known for:
  &nbsp; &nbsp;Jan 2019 - Jul 2021
  <br/> 
  <br/>
+ <br/> 
  <img align="left" width="75" height="75" src="https://biancaliebhaber.github.io/assets/img/medianet.jpeg">
  &nbsp;&nbsp;<b>MediaNet</b>, Seattle, WA <br/> 
  &nbsp;&nbsp;Sep 2017 - Dec 2018<br/> 

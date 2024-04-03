@@ -27,8 +27,10 @@ Best known for:
     <span style="float:right;">
         Feb 2017 - Present
 <p style="text-align:left;">
-	Lead Music Programmer
-    
+	<i>Lead Music Programmer</i>
+<p style="text-align:left;">
+Head of music program for our primary client with streaming in over 350 stores nationwide.
+	
 <p style="text-align:left;">
     <b>Amazon | Amazon Music, Seattle, WA</b>
     <span style="float:right;">

@@ -25,10 +25,11 @@ Best known for:
     <b>Barber Entertainment Corp</b>, Redmond, WA
     <span style="float:right;">
         Feb 2017 - Present
-<span style="text-align:left;">
+    <p style="text-align:left;">
 	<i>Lead Music Programmer</i>
 <br style="text-align:left;"/>
 Head of music program for our primary client with streaming in over 350 stores nationwide.
+	    <br/>
 	
 <p style="text-align:left;"> 
     <b>Amazon | Amazon Music</b>, Seattle, WA
@@ -61,8 +62,8 @@ Genre metadata specialist on the editorial team for the Catalog organization.
 	<i>Music Content Coordinator</i>
 <br style="text-align:left;"/>
 Metadata specialist for a digital music catalog.
-
-<h2 id="education">Education</h2>
-<hr>
+<h2 style="color:grey;"
+<h2 id="education">Education</h2> 
+<hr> 
 <p><strong>Bachelor of Science, B.Sc. Molecular, Cellular and Developmental Biology</strong><br/>
 University of Washington, Seattle, WA	</p>	

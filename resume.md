@@ -26,7 +26,6 @@ Best known for:
  &nbsp; &nbsp;Feb 2017 - Present<br/> 
  &nbsp; &nbsp;<i>Lead Music Programmer</i>
  <br/>
- <br/>
  <br/> 
 <img align="left" width="75" height="75" src="https://biancaliebhaber.github.io/assets/img/amazon_music.png">
  &nbsp; &nbsp;<b>Amazon |</b><br/> 

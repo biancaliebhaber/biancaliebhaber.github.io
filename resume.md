@@ -25,42 +25,31 @@ Best known for:
  &nbsp;<b>Barber Entertainment Corp</b>, Redmond, WA <br/> 
  &nbsp;Feb 2017 - Present<br/> 
  &nbsp;<i>Lead Music Programmer</i>
+ <br/>
+ <br/>
+<img align="left" width="75" height="75" src="https://biancaliebhaber.github.io/assets/img/amazon_music.png">
+ &nbsp;<b>Amazon | Amazon Music</b>, Seattle, WA <br/> 
+ &nbsp;Jan 2019 - Jan 2024<br/> 
+ <br/>
+<img align="left" width="75" height="75" src="https://biancaliebhaber.github.io/assets/img/gray-vertical-line.png">
+ &nbsp;<i>Business Analyst II</i> <br/> 
+ &nbsp;Dec 2021 - Jan 2024<br/> 
+<br/>
+ <img align="left" width="75" height="75" src="https://biancaliebhaber.github.io/assets/img/gray-vertical-line.png">
+ &nbsp;<i>Business Analyst I</i> <br/> 
+ &nbsp;Aug 2021 - Nov 2021<br/> 
+ <br/> 
+ <img align="left" width="75" height="75" src="https://biancaliebhaber.github.io/assets/img/gray-vertical-line.png">
+ &nbsp;<i>Catalog Specialist I</i> <br/> 
+ &nbsp;Jan 2019 - Jul 2021<br/> 
+ <br/>
+ <br/>
+ <img align="left" width="75" height="75" src="https://biancaliebhaber.github.io/assets/img/medianet.jpeg">
+ &nbsp;<b>MediaNet</b>, Seattle, WA <br/> 
+ &nbsp;Sep 2017 - Dec 2018<br/> 
+ &nbsp;<i>Music Content Coordinator</i>
 
 
-
-
-	
-<p style="text-align:left;"> 
-    <b>Amazon | Amazon Music</b>, Seattle, WA
-    <span style="float:right;">
-        Jan 2019 - Jan 2024
-<p style="text-align:left;">
-	<i>Business Analyst II</i>	
-<br style="text-align:left;"/>
-Dec 2021 - Jan 2024
-<br style="text-align:left;"/>
-Business Intelligence (BI) analyst in the Data Insights Science and Optimization organization under Consumer Product Technology.
-<p style="text-align:left;">
-	<i>Business Analyst I</i>	
-<br style="text-align:left;"/>
-Aug 2021 - Nov 2021
-<br style="text-align:left;"/>
-Dedicated in-house analyst for the Catalog organization under Consumer Product Technology.
-<p style="text-align:left;">
-	<i>Catalog Specialist I</i>	
-<br style="text-align:left;"/>
-Jan 2019 - Jul 2021
-<br style="text-align:left;"/>
-Genre metadata specialist on the editorial team for the Catalog organization.
-
-<p style="text-align:left;">
-    <b>MediaNet</b>, Seattle, WA
-    <span style="float:right;">
-        Sep 2017 - Dec 2018
-<p style="text-align:left;">
-	<i>Music Content Coordinator</i>
-<br style="text-align:left;"/>
-Metadata specialist for a digital music catalog.
 
 <h2 id="education">Education</h2> 
 <hr> 

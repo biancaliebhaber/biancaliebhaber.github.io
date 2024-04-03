@@ -8,11 +8,11 @@ title: Resume
 Biologist turned Business Analyst with a proven track record in leveraging data-driven insights to power operational efficiencies and enhance business performance.<br/>
 
 Best known for:
-[x] tenacious problem-solving ability.
-[x] swift technical skill development.
-[x] translation of short-term needs into a long-term vision.
-[x] a desire to mentor others.
-[x] delightful elevator conversation.
+- [x] tenacious problem-solving ability.
+- [x] swift technical skill development.
+- [x] translation of short-term needs into a long-term vision.
+- [x] a desire to mentor others.
+- [x] delightful elevator conversation.
 
 ## Core Competencies
 ***
@@ -26,7 +26,6 @@ Best known for:
     <b>Barber Entertainment Corp, Redmond, WA</b>
     <span style="float:right;">
         Feb 2017 - Present
-    </span>
 <p style="text-align:left;">
 	Lead Music Programmer
     

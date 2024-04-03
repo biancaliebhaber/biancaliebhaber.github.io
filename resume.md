@@ -15,8 +15,8 @@ Best known for:
 
 ## Core Competencies
 ***
-**Platform & Tools:** Amazon Web Services (AWS), Tableau, Microsoft Power BI, Microsoft Office, Jira, GitHub.<br/>
-**Programming Languages:** SQL (advanced), Python (beginner), Git (beginner).<br/>
+**Platform & Tools:** Amazon Web Services (AWS), Tableau, Microsoft Power BI, Microsoft Office, Jira.<br/>
+**Languages:** SQL (advanced), HTML (beginner), Python (beginner).<br/>
 **Skills:** Metrics Reporting, Data Visualization, ETL Pipelines, Deep Dive Analysis, Code Reviews, Big Data, Public Speaking.
 
 ## Professional Experience

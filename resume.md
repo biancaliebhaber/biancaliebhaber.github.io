@@ -26,7 +26,7 @@ Best known for:
     <b>Barber Entertainment Corp</b>, Redmond, WA
     <span style="float:right;">
         Feb 2017 - Present
-<p style="text-align:left;">
+<br style="text-align:left;"/>
 	<i>Lead Music Programmer</i>
 <br style="text-align:left;"/>
 Head of music program for our primary client with streaming in over 350 stores nationwide.

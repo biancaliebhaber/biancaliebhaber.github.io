@@ -21,16 +21,11 @@ Best known for:
 
 ## Professional Experience
 ***
-<p style="color:grey;"
-<p style="text-align:left;">
-    <b>Barber Entertainment Corp</b>, Redmond, WA
-    <span style="float:right;">
-        Feb 2017 - Present
-    <p style="text-align:left;">
-	<i>Lead Music Programmer</i>
-<br style="text-align:left;"/>
-Head of music program for our primary client with streaming in over 350 stores nationwide.
-	    <br/>
+<img align="left" width="70" height="70" src="https://biancaliebhaber.github.io/assets/img/barberent.png">
+<b>Barber Entertainment Corp</b>, Redmond, WA <br/>
+Feb 2017 - Present<br/>
+<i>Lead Music Programmer</i>
+
 	
 <p style="text-align:left;"> 
     <b>Amazon | Amazon Music</b>, Seattle, WA

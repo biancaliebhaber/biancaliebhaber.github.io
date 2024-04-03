@@ -24,7 +24,7 @@ Since I founded the club in 2020, membership continues to climb as I introduce n
 💛 [Young Women Empowered](https://youngwomenempowered.org/)
 
 💬 **Let's Connect**
-I am always open to networking opportunities or industry chats. Feel free to connect with me if you are passionate about data (especially in the music industry!) or if you have exciting job opportunities.
+I am always open to networking opportunities or industry chats. Feel free to connect with me if you are passionate about data or have exciting job opportunities.
 📩 [Email](mailto:bianca.liebhaber@gmail.com)
 🟦 [LinkedIn](https://www.linkedin.com/in/biancaliebhaber/)
 

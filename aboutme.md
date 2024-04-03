@@ -4,7 +4,7 @@ title: About Me
 subtitle: Passionate Professional in the field of Business Intelligence.
 ---
 
-![rooftop](https://biancaliebhaber.github.io/assets/img/rooftop.jpeg){: .mx-auto.d-block :}
+![rooftop.jpeg](https://biancaliebhaber.github.io/assets/img/rooftop.jpeg){: .mx-auto.d-block :}
 
 ## Hello! My name is Bianca.
 

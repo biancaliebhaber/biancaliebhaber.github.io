@@ -21,6 +21,7 @@ Best known for:
 
 ## Professional Experience
 ***
+<p style="color:grey;"
 <p style="text-align:left;">
     <b>Barber Entertainment Corp</b>, Redmond, WA
     <span style="float:right;">
@@ -62,7 +63,7 @@ Genre metadata specialist on the editorial team for the Catalog organization.
 	<i>Music Content Coordinator</i>
 <br style="text-align:left;"/>
 Metadata specialist for a digital music catalog.
-<h2 style="color:grey;"
+
 <h2 id="education">Education</h2> 
 <hr> 
 <p><strong>Bachelor of Science, B.Sc. Molecular, Cellular and Developmental Biology</strong><br/>

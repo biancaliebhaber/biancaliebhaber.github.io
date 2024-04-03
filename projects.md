@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Projects
-subtitle: Explore some of my work!
+subtitle: Explore some of my work outside the office.
 ---
 
 ## Data Visualizations

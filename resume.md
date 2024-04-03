@@ -36,7 +36,7 @@ Head of music program for our primary client with streaming in over 350 stores n
         Jan 2019 - Jan 2024
 <p style="text-align:left;">
 	<i>Business Analyst II</i>	
-<p style="text-align:left;">
+<br style="text-align:left;"/>
 Dec 2021 - Jan 2024
 <br style="text-align:left;"/>
 Business Intelligence (BI) analyst in the Data Insights Science and Optimization organization under Consumer Product Technology.
@@ -61,7 +61,6 @@ Genre metadata specialist on the editorial team for the Catalog organization.
 	<i>Music Content Coordinator</i>
 <br style="text-align:left;"/>
 Metadata specialist for a digital music catalog.
-		        			                 
 
 ## Education
 ***

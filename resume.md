@@ -21,10 +21,13 @@ Best known for:
 
 ## Professional Experience
 ***
-<img align="left" width="70" height="70" src="https://biancaliebhaber.github.io/assets/img/barberent.png">
-<b>Barber Entertainment Corp</b>, Redmond, WA <br/>
-Feb 2017 - Present<br/>
-<i>Lead Music Programmer</i>
+<img align="left" width="75" height="75" src="https://biancaliebhaber.github.io/assets/img/barberent.png">
+<p>
+<space> <b>Barber Entertainment Corp</b>, Redmond, WA <br/>
+<space> Feb 2017 - Present<br/>
+<space> <i>Lead Music Programmer</i>
+</p>
+
 
 	
 <p style="text-align:left;"> 

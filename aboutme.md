@@ -19,7 +19,7 @@ Beyond the professional realm, I am deeply passionate about Toastmasters, a publ
 
 💪 **Outside of Work**
 Check out my other passion, Iron Betties - a weightlifting club for women and non-binary individuals.
-Since I founded the club in 2020, membership continues to climb as I introduce new meetup ideas, community-forward events and merchandise! All proceeds go to our Seattle non-profit of choice, Young Women Empowered (Y-WE).
+Since I founded the club in 2020, membership continues to climb as I introduce new meetup ideas, community-forward events and merchandise! All merchandise proceeds go to our Seattle non-profit of choice, Young Women Empowered (Y-WE).
 📷 [Instagram](https://www.instagram.com/ironbetties/)
 💛 [Young Women Empowered](https://youngwomenempowered.org/)
 

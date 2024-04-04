@@ -28,4 +28,4 @@ I am always open to networking opportunities or industry chats. Feel free to con
 📩 [Email](mailto:bianca.liebhaber@gmail.com)
 🟦 [LinkedIn](https://www.linkedin.com/in/biancaliebhaber/)
 
-🚀 Looking forward to engaging with like-minded professionals!
+🚀 Look forward to engaging with like-minded professionals!

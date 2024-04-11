@@ -7,11 +7,11 @@ title: Resume
 ***
 Biologist turned Business Analyst with a proven track record in leveraging data-driven insights to power operational efficiencies and enhance business performance.
 Best known for:
-- [x]  tenacious problem-solving ability.
-- [x]  swift technical skill development.
-- [x]  translation of short-term needs into a long-term vision.
-- [x]  a desire to mentor others.
-- [x]  delightful elevator conversation.
+- tenacious problem-solving ability.
+- swift technical skill development.
+- translation of short-term needs into a long-term vision.
+- a desire to mentor others.
+- delightful elevator conversation.
 
 ## Core Competencies
 ***

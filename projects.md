@@ -30,7 +30,7 @@ View the project on
 
 **Six Deep**<br/>
 *Published May 2020*
-![ScreenRecording2025-05-18at5 54 12PM-ezgif com-optimize](https://github.com/user-attachments/assets/39f4b1ba-f467-4e55-87f0-d2b729fc9554)
+![sixdeep](https://github.com/user-attachments/assets/4e2e1ab0-08c7-4e97-822a-47470d2f164f)
 
 
 

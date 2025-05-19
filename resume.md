@@ -21,6 +21,12 @@ Best known for:
 
 ## Professional Experience
 ***
+<img align="left" width="75" height="75" src="https://biancaliebhaber.github.io/assets/img/pitchbook_logo.png">
+ &nbsp; &nbsp;<b>PitchBook Data</b>, Seattle, WA <br/> 
+ &nbsp; &nbsp;Mar 2024 - Present<br/> 
+ &nbsp; &nbsp;<i>Senior Data Analyst</i>
+ <br/>
+ <br/> 
 <img align="left" width="75" height="75" src="https://biancaliebhaber.github.io/assets/img/barberent.jpg">
  &nbsp; &nbsp;<b>Barber Entertainment Corp</b>, Redmond, WA <br/> 
  &nbsp; &nbsp;Feb 2017 - Present<br/> 

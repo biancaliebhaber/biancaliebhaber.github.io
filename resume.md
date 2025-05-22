@@ -23,7 +23,7 @@ Best known for:
 ***
 <img align="left" width="75" height="75" src="https://biancaliebhaber.github.io/assets/img/pitchbook_logo.png">
  &nbsp; &nbsp;<b>PitchBook Data</b>, Seattle, WA <br/> 
- &nbsp; &nbsp;Mar 2024 - Present<br/> 
+ &nbsp; &nbsp;May 2024 - Present<br/> 
  &nbsp; &nbsp;<i>Senior Data Analyst</i>
  <br/>
  <br/> 

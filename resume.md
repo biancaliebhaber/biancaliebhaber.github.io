@@ -28,7 +28,7 @@ Best known for:
  <br/>
  <br/> 
 <img align="left" width="75" height="75" src="https://biancaliebhaber.github.io/assets/img/barberent.jpg">
- &nbsp; &nbsp;<b>Barber Entertainment Corp</b>, Redmond, WA <br/> 
+ &nbsp; &nbsp;<b>Barber Consulting Group</b>, Redmond, WA <br/> 
  &nbsp; &nbsp;Feb 2017 - Present<br/> 
  &nbsp; &nbsp;<i>Lead Music Programmer</i>
  <br/>

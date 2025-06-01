@@ -16,7 +16,7 @@ Best known for:
 ## Core Competencies
 ***
 **Platform & Tools:** Amazon Web Services (AWS), Tableau, Microsoft Power BI, Microsoft Office, Jira.<br/>
-**Languages:** SQL (advanced), HTML (beginner), Python (beginner).<br/>
+**Languages:** Advanced SQL; beginner-level HTML and Python. <br/>
 **Skills:** Metrics Reporting, Data Visualization, ETL Pipelines, Deep Dive Analysis, Code Reviews, Big Data, Public Speaking.
 
 ## Professional Experience
@@ -30,7 +30,7 @@ Best known for:
 <img align="left" width="75" height="75" src="https://biancaliebhaber.github.io/assets/img/barberent.jpg">
  &nbsp; &nbsp;<b>Barber Consulting Group</b>, Redmond, WA <br/> 
  &nbsp; &nbsp;Feb 2017 - Present<br/> 
- &nbsp; &nbsp;<i>Lead Music Programmer</i>
+ &nbsp; &nbsp;<i>Music Programming Lead</i>
  <br/>
  <br/> 
 <img align="left" width="75" height="75" src="https://biancaliebhaber.github.io/assets/img/amazon_music.png">

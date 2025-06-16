@@ -5,13 +5,13 @@ title: Resume
 [Printable Resume PDF](https://biancaliebhaber.github.io/Bianca%20Liebhaber%20Resume.pdf)
 ## Summary
 ***
-Biologist turned Business Analyst with a proven track record in leveraging data-driven insights to power operational efficiencies and enhance business performance.
-Best known for:
-• Tenacious problem-solving ability.
-• Swift technical skill development.
-• Translation of short-term needs into a long-term vision.
-• A desire to mentor others.
-• Delightful elevator conversation.
+Biologist turned Business Analyst with a proven track record in leveraging data-driven insights to power operational efficiencies and enhance business performance.<br/>
+Best known for:<br/>
+• Tenacious problem-solving ability.<br/>
+• Swift technical skill development.<br/>
+• Translation of short-term needs into a long-term vision.<br/>
+• A desire to mentor others.<br/>
+• Delightful elevator conversation.<br/>
 
 ## Core Competencies
 ***

@@ -2,7 +2,7 @@
 layout: page
 title: Resume
 ---
-[Printable Resume PDF](https://biancaliebhaber.github.io/Bianca%20Liebhaber%20Resume.pdf)
+[Printable Resume PDF](https://biancaliebhaber.github.io/Bianca_Liebhaber_Resume.pdf)
 ## Summary
 ***
 Biologist turned data expert with a proven track record in leveraging data-driven insights to power operational efficiencies and enhance business performance.<br/>

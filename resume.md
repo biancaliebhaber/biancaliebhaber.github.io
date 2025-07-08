@@ -5,7 +5,7 @@ title: Resume
 [Printable Resume PDF](https://biancaliebhaber.github.io/Bianca%20Liebhaber%20Resume.pdf)
 ## Summary
 ***
-Biologist turned Business Analyst with a proven track record in leveraging data-driven insights to power operational efficiencies and enhance business performance.<br/>
+Biologist turned data expert with a proven track record in leveraging data-driven insights to power operational efficiencies and enhance business performance.<br/>
 Best known for:<br/>
 • Tenacious problem-solving ability.<br/>
 • Swift technical skill development.<br/>
@@ -64,5 +64,5 @@ Best known for:<br/>
 
 <h2 id="education">Education</h2> 
 <hr> 
-<p><strong>Bachelor of Science, B.Sc. Molecular, Cellular and Developmental Biology</strong><br/>
+<p><strong>B.Sc. in Molecular, Cellular and Developmental Biology</strong><br/>
 University of Washington, Seattle, WA	</p>	

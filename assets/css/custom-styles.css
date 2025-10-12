@@ -1,0 +1,9 @@
+/* --- Custom overrides for footer background --- */
+
+footer {
+  min-height: 400px !important;            /* increase footer height */
+  background-size: contain !important;     /* show full image */
+  background-repeat: no-repeat !important;
+  background-position: center top !important;
+  background-color: #ffffff;               /* fallback if image doesn't fill area */
+}

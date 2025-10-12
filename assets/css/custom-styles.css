@@ -1,14 +1,17 @@
+/* Custom footer image fix for Beautiful Jekyll */
+
 footer {
-  /* Make background fill footer */
-  background-size: cover !important;        /* scale image to cover footer */
-  background-repeat: no-repeat !important;  /* prevent tiling */
+  min-height: 500px !important;                  /* taller footer */
+  padding: 0 !important;                         /* remove default padding */
+  background-size: cover !important;             /* scale image to fill */
+  background-repeat: no-repeat !important;       /* no tiling */
   background-position: center center !important;
-  background-attachment: scroll !important; /* stop fixed parallax effect */
-
-  /* Make footer taller */
-  min-height: 400px !important;            /* adjust as needed */
-  padding: 2rem 0 !important;
-
-  /* Ensure full width */
-  width: 100% !important;
+  background-attachment: scroll !important;      /* allow image to scroll */
+  width: 100% !important;                        /* full width */
+}
+@media (min-width: 768px) {
+  footer {
+    min-height: 500px !important;                /* same height on larger screens */
+    padding: 0 !important;                       /* override media query padding */
+  }
 }

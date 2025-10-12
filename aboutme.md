@@ -27,38 +27,4 @@ Bianca welcomes networking opportunities and industry conversations, particularl
 📩 [Email](mailto:bianca.liebhaber@gmail.com)
 🟦 [LinkedIn](https://www.linkedin.com/in/biancaliebhaber/)
 
-<section class="recommendations mt-5">
- <div id="recommendationsCarousel" class="carousel slide" data-bs-ride="carousel" data-bs-interval="5000">
-    <div class="carousel-inner">
-
-      <div class="carousel-item active">
-        <p>"Bianca consistently delivers high-quality analytics and actionable insights."</p>
-        <h5>Jane Doe — Director of Analytics</h5>
-      </div>
-
-      <div class="carousel-item">
-        <p>"Her curiosity and ability to translate complex data into strategy is unmatched."</p>
-        <h5>John Smith — Product Manager</h5>
-      </div>
-
-      <div class="carousel-item">
-        <p>"A dependable collaborator who turns numbers into stories."</p>
-        <h5>Maria Lee — Marketing Lead</h5>
-      </div>
-
-    </div>
-
-    <!-- controls -->
-    <button class="carousel-control-prev" type="button" data-bs-target="#recommendationsCarousel" data-bs-slide="prev">
-      <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-      <span class="visually-hidden">Previous</span>
-    </button>
-    <button class="carousel-control-next" type="button" data-bs-target="#recommendationsCarousel" data-bs-slide="next">
-      <span class="carousel-control-next-icon" aria-hidden="true"></span>
-      <span class="visually-hidden">Next</span>
-    </button>
-  </div>
-</section>
-
-<!-- Bootstrap JS bundle (only if not already included) -->
-<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-w76A2z02t52x0zLh9b6eQXZCj7bPcVx1pZ8zN26JmY2x04ecfUu6HMCe0gJp6YjU" crossorigin="anonymous"></script>
+<!-- carousel for linkedin recs - see progress in Bear notes under 'GitHub website' -->

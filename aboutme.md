@@ -70,3 +70,53 @@ Bianca welcomes networking opportunities and industry conversations, particularl
     <a href="https://www.linkedin.com/in/biancaliebhaber/" target="_blank">See more on LinkedIn →</a>
   </p>
 </section>
+
+<style>
+/* Keep carousel centered and separate from footer image */
+.recommendations {
+  max-width: 800px;
+  margin: 60px auto;
+  text-align: center;
+  background: #fff;              /* neutral background */
+  border-radius: 12px;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.08);
+  padding: 40px 50px;
+  position: relative;
+}
+
+/* Text appearance */
+.recommendations .carousel-item p {
+  color: #111 !important;        /* darken text */
+  font-size: 1.1rem;
+  line-height: 1.6;
+}
+
+.recommendations .carousel-item h5 {
+  margin-top: 1rem;
+  color: #000;                   /* solid black for names */
+  font-weight: 600;
+}
+
+/* Navigation buttons */
+.recommendations .carousel-control-prev,
+.recommendations .carousel-control-next {
+  width: 6%;
+  top: 50%;
+  transform: translateY(-50%);
+  opacity: 0.8;
+}
+
+.recommendations .carousel-control-prev-icon,
+.recommendations .carousel-control-next-icon {
+  background-color: #333;
+  border-radius: 50%;
+  padding: 12px;
+  background-size: 60%;
+}
+
+/* Stop footer image from bleeding through */
+.recommendations {
+  background-image: none !important;
+}
+</style>
+

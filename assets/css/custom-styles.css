@@ -1,9 +1,25 @@
-/* --- Custom overrides for footer background --- */
+/* --- Custom footer image fix for Beautiful Jekyll --- */
 
 footer {
-  min-height: 400px !important;
-  background-size: cover !important;        /* fill area, crop if needed */
+  width: 100vw !important;                   /* span full viewport width */
+  margin-left: calc(-50vw + 50%);            /* counter container padding */
+  position: relative;
+  left: 0;
+  right: 0;
+  
+  min-height: 450px !important;              /* slightly taller for breathing room */
+  background-image: url("/assets/img/bubbles3.jpg");
+  background-size: cover !important;         /* fully cover footer area */
   background-repeat: no-repeat !important;
   background-position: center center !important;
   background-color: #ffffff;
+  overflow: hidden;
+}
+
+/* optional: make sure footer content (text, links) stays readable */
+footer .footer-content {
+  background: rgba(255, 255, 255, 0.85);
+  padding: 20px;
+  border-radius: 12px;
+  display: inline-block;
 }

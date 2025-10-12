@@ -1,28 +1,22 @@
-/* --- Force full-width footer background image --- */
+/* Expand parent containers to full width */
+.footer-wrapper, .footer-inner, .footer {
+  width: 100vw !important;
+  margin-left: calc(-50vw + 50%) !important;
+  max-width: none !important;
+  padding: 0 !important;
+}
 
-.footer-img, footer {
+/* Target the image container itself */
+.footer-img {
+  width: 100vw !important;
+  min-height: 400px !important;
   background-image: url("/assets/img/bubbles3.jpg") !important;
   background-size: cover !important;
   background-repeat: no-repeat !important;
   background-position: center center !important;
-  width: 100vw !important;
-  margin-left: calc(-50vw + 50%) !important;
-  min-height: 500px !important;
-  overflow: hidden;
 }
 
-/* Make sure the footer itself doesn’t clip or shrink */
-footer {
-  padding: 0 !important;
-  border: none !important;
-  position: relative;
-  z-index: 2;
-}
-
-/* Optional: Add contrast for footer text if needed */
-footer .footer-content {
-  background-color: rgba(255,255,255,0.85);
-  padding: 20px;
-  border-radius: 8px;
-  display: inline-block;
+/* Ensure no parent clipping */
+.footer, .footer-wrapper, .footer-inner {
+  overflow: visible !important;
 }

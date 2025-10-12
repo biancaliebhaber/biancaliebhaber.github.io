@@ -26,3 +26,47 @@ Bianca founded Iron Betties, a weightlifting club for women and non-binary lifte
 Bianca welcomes networking opportunities and industry conversations, particularly at the intersection of analytics, operations, and digital media. She is open to connections in New York City or globally.
 📩 [Email](mailto:bianca.liebhaber@gmail.com)
 🟦 [LinkedIn](https://www.linkedin.com/in/biancaliebhaber/)
+
+<section class="recommendations mt-5">
+  <h2 class="text-center mb-4">What Others Say</h2>
+
+  <div id="recommendationCarousel" class="carousel slide" data-bs-ride="carousel">
+    <div class="carousel-inner">
+
+      <div class="carousel-item active">
+        <blockquote class="text-center">
+          <p class="mb-3">"Bianca consistently delivers high-quality analytics insights that drive business decisions. Her technical expertise and collaborative approach make her a standout team member."</p>
+          <footer>- Jane Doe, Director of Analytics, Company XYZ</footer>
+        </blockquote>
+      </div>
+
+      <div class="carousel-item">
+        <blockquote class="text-center">
+          <p class="mb-3">"Bianca’s work transforming raw data into actionable KPIs was critical for our department’s long-term planning."</p>
+          <footer>- John Smith, Senior Manager, Company ABC</footer>
+        </blockquote>
+      </div>
+
+      <div class="carousel-item">
+        <blockquote class="text-center">
+          <p class="mb-3">"A true problem-solver, Bianca applies both technical rigor and business insight to every project."</p>
+          <footer>- Sarah Lee, Product Manager, Company DEF</footer>
+        </blockquote>
+      </div>
+
+    </div>
+
+    <button class="carousel-control-prev" type="button" data-bs-target="#recommendationCarousel" data-bs-slide="prev">
+      <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+      <span class="visually-hidden">Previous</span>
+    </button>
+    <button class="carousel-control-next" type="button" data-bs-target="#recommendationCarousel" data-bs-slide="next">
+      <span class="carousel-control-next-icon" aria-hidden="true"></span>
+      <span class="visually-hidden">Next</span>
+    </button>
+  </div>
+
+  <p class="text-center mt-3">
+    <a href="https://www.linkedin.com/in/biancaliebhaber/" target="_blank">See more on LinkedIn →</a>
+  </p>
+</section>

@@ -9,7 +9,7 @@ subtitle: Passionate Professional in the field of Business Intelligence.
 ## Hello! My name is Bianca.
 
 🌐 **Background**
-I’m a Senior Data Analyst with 5+ years in Business Intelligence, built on a foundation in research science and self-taught technical skills. I specialize in data ingestion, transformation, and visualization using tools like Amazon Redshift, Tableau, and SQL. I'm eager to apply my expertise to uncover insights and tackle new technical challenges.
+I’m a Senior Data Analyst with 8+ years in Business Intelligence, built on a foundation in research science and self-taught technical skills. I specialize in data ingestion, transformation, and visualization using tools like Amazon Redshift, Tableau, and SQL. I'm eager to apply my expertise to uncover insights and tackle new technical challenges.
 
 📈 **What Drives Me**
 I am motivated by a curiosity to learn! I feel most rewarded at work when I can apply my comprehensive stack of expertise to drive business insights across new programs and technical challenges.

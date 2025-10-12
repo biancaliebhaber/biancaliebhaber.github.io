@@ -24,15 +24,16 @@ subtitle: Transforming data into actionable insights.<br/>
   <a class="btn btn-outline-dark btn-lg" href="/resume">Resume</a>
   <a class="btn btn-outline-dark btn-lg" href="/projects">Projects</a>
 </div>
-<!-- NEW CUSTOM FOOTER START -->
-<footer class="custom-footer">
-  <div class="footer-content">
-    <p>© 2025 Bianca Liebhaber</p>
-    <p>
-      <a href="/aboutme">About Me</a> |
-      <a href="/resume">Resume</a> |
-      <a href="/projects">Projects</a>
-    </p>
-  </div>
-</footer>
-<!-- NEW CUSTOM FOOTER END -->
+
+<script>
+document.addEventListener("DOMContentLoaded", function() {
+  var footer = document.querySelector("footer");
+  if (footer) {
+    footer.style.backgroundAttachment = "scroll";       // force scroll
+    footer.style.backgroundSize = "cover";             // scale image
+    footer.style.backgroundRepeat = "no-repeat";       // prevent tiling
+    footer.style.backgroundPosition = "center center"; // center
+    footer.style.width = "100vw";                      // full width
+  }
+});
+</script>

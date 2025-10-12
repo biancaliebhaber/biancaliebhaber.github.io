@@ -1,17 +1,24 @@
-/* Custom footer image fix for Beautiful Jekyll */
-
+/* Full-width footer background, like header */
 footer {
-  min-height: 500px !important;                  /* taller footer */
-  padding: 0 !important;                         /* remove default padding */
-  background-size: cover !important;             /* scale image to fill */
-  background-repeat: no-repeat !important;       /* no tiling */
-  background-position: center center !important;
-  background-attachment: scroll !important;      /* allow image to scroll */
-  width: 100% !important;                        /* full width */
+  position: relative;
+  width: 100%;
+  min-height: 400px;                     /* adjust for how much of the image you want */
+  background-image: url("/assets/img/bubbles4.jpg");
+  background-size: cover;                 /* scale image to fill footer */
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-attachment: scroll;          /* scroll with page like a normal section */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  color: #242425;                         /* footer text color */
 }
-@media (min-width: 768px) {
-  footer {
-    min-height: 500px !important;                /* same height on larger screens */
-    padding: 0 !important;                       /* override media query padding */
-  }
+
+/* Optional: footer content container */
+footer .footer-content {
+  padding: 20px;
+  text-align: center;
+  background-color: rgba(255,255,255,0.8); /* semi-transparent overlay if needed */
+  border-radius: 10px;
 }

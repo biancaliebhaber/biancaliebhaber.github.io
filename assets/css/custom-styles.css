@@ -1,25 +1,28 @@
-/* --- Custom footer image fix for Beautiful Jekyll --- */
+/* --- Force full-width footer background image --- */
 
-footer {
-  width: 100vw !important;                   /* span full viewport width */
-  margin-left: calc(-50vw + 50%);            /* counter container padding */
-  position: relative;
-  left: 0;
-  right: 0;
-  
-  min-height: 450px !important;              /* slightly taller for breathing room */
-  background-image: url("/assets/img/bubbles3.jpg");
-  background-size: cover !important;         /* fully cover footer area */
+.footer-img, footer {
+  background-image: url("/assets/img/bubbles3.jpg") !important;
+  background-size: cover !important;
   background-repeat: no-repeat !important;
   background-position: center center !important;
-  background-color: #ffffff;
+  width: 100vw !important;
+  margin-left: calc(-50vw + 50%) !important;
+  min-height: 500px !important;
   overflow: hidden;
 }
 
-/* optional: make sure footer content (text, links) stays readable */
+/* Make sure the footer itself doesn’t clip or shrink */
+footer {
+  padding: 0 !important;
+  border: none !important;
+  position: relative;
+  z-index: 2;
+}
+
+/* Optional: Add contrast for footer text if needed */
 footer .footer-content {
-  background: rgba(255, 255, 255, 0.85);
+  background-color: rgba(255,255,255,0.85);
   padding: 20px;
-  border-radius: 12px;
+  border-radius: 8px;
   display: inline-block;
 }

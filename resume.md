@@ -3,15 +3,7 @@ layout: page
 title: Resume
 ---
 [Printable Resume PDF](https://biancaliebhaber.github.io/Bianca_Liebhaber_Resume.pdf)
-## Summary
-***
-Biologist turned data expert with a proven track record in leveraging data-driven insights to power operational efficiencies and enhance business performance.<br/>
-Best known for:<br/>
-• Tenacious problem-solving ability.<br/>
-• Swift technical skill development.<br/>
-• Translation of short-term needs into a long-term vision.<br/>
-• A desire to mentor others.<br/>
-• Delightful elevator conversation.<br/>
+<br/>
 
 ## Core Competencies
 ***

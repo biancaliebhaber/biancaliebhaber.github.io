@@ -28,95 +28,37 @@ Bianca welcomes networking opportunities and industry conversations, particularl
 🟦 [LinkedIn](https://www.linkedin.com/in/biancaliebhaber/)
 
 <section class="recommendations mt-5">
-  <h2 class="text-center mb-4">What Others Say</h2>
-
-  <div id="recommendationCarousel" class="carousel slide" data-bs-ride="carousel">
+ <div id="recommendationsCarousel" class="carousel slide" data-bs-ride="carousel" data-bs-interval="5000">
     <div class="carousel-inner">
 
       <div class="carousel-item active">
-        <blockquote class="text-center">
-          <p class="mb-3">"Bianca consistently delivers high-quality analytics insights that drive business decisions. Her technical expertise and collaborative approach make her a standout team member."</p>
-          <footer>- Jane Doe, Director of Analytics, Company XYZ</footer>
-        </blockquote>
+        <p>"Bianca consistently delivers high-quality analytics and actionable insights."</p>
+        <h5>Jane Doe — Director of Analytics</h5>
       </div>
 
       <div class="carousel-item">
-        <blockquote class="text-center">
-          <p class="mb-3">"Bianca’s work transforming raw data into actionable KPIs was critical for our department’s long-term planning."</p>
-          <footer>- John Smith, Senior Manager, Company ABC</footer>
-        </blockquote>
+        <p>"Her curiosity and ability to translate complex data into strategy is unmatched."</p>
+        <h5>John Smith — Product Manager</h5>
       </div>
 
       <div class="carousel-item">
-        <blockquote class="text-center">
-          <p class="mb-3">"A true problem-solver, Bianca applies both technical rigor and business insight to every project."</p>
-          <footer>- Sarah Lee, Product Manager, Company DEF</footer>
-        </blockquote>
+        <p>"A dependable collaborator who turns numbers into stories."</p>
+        <h5>Maria Lee — Marketing Lead</h5>
       </div>
 
     </div>
 
-    <button class="carousel-control-prev" type="button" data-bs-target="#recommendationCarousel" data-bs-slide="prev">
+    <!-- controls -->
+    <button class="carousel-control-prev" type="button" data-bs-target="#recommendationsCarousel" data-bs-slide="prev">
       <span class="carousel-control-prev-icon" aria-hidden="true"></span>
       <span class="visually-hidden">Previous</span>
     </button>
-    <button class="carousel-control-next" type="button" data-bs-target="#recommendationCarousel" data-bs-slide="next">
+    <button class="carousel-control-next" type="button" data-bs-target="#recommendationsCarousel" data-bs-slide="next">
       <span class="carousel-control-next-icon" aria-hidden="true"></span>
       <span class="visually-hidden">Next</span>
     </button>
   </div>
-
-  <p class="text-center mt-3">
-    <a href="https://www.linkedin.com/in/biancaliebhaber/" target="_blank">See more on LinkedIn →</a>
-  </p>
 </section>
 
-<style>
-/* Keep carousel centered and separate from footer image */
-.recommendations {
-  max-width: 800px;
-  margin: 60px auto;
-  text-align: center;
-  background: #fff;              /* neutral background */
-  border-radius: 12px;
-  box-shadow: 0 4px 12px rgba(0,0,0,0.08);
-  padding: 40px 50px;
-  position: relative;
-}
-
-/* Text appearance */
-.recommendations .carousel-item p {
-  color: #111 !important;        /* darken text */
-  font-size: 1.1rem;
-  line-height: 1.6;
-}
-
-.recommendations .carousel-item h5 {
-  margin-top: 1rem;
-  color: #000;                   /* solid black for names */
-  font-weight: 600;
-}
-
-/* Navigation buttons */
-.recommendations .carousel-control-prev,
-.recommendations .carousel-control-next {
-  width: 6%;
-  top: 50%;
-  transform: translateY(-50%);
-  opacity: 0.8;
-}
-
-.recommendations .carousel-control-prev-icon,
-.recommendations .carousel-control-next-icon {
-  background-color: #333;
-  border-radius: 50%;
-  padding: 12px;
-  background-size: 60%;
-}
-
-/* Stop footer image from bleeding through */
-.recommendations {
-  background-image: none !important;
-}
-</style>
-
+<!-- Bootstrap JS bundle (only if not already included) -->
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-w76A2z02t52x0zLh9b6eQXZCj7bPcVx1pZ8zN26JmY2x04ecfUu6HMCe0gJp6YjU" crossorigin="anonymous"></script>

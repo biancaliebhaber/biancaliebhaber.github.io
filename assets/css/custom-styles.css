@@ -1,16 +1,14 @@
 footer {
-  /* Ensure full width */
-  width: 100vw !important;
-  max-width: 100% !important;
-  padding: 0 !important;       /* optional: remove internal padding if you want full coverage */
-  
-  /* Background image */
-  background-image: url("/assets/img/bubbles3.jpg") !important;
-  background-size: cover !important;          /* fill footer area */
-  background-repeat: no-repeat !important;    /* no tiling */
+  /* Make background fill footer */
+  background-size: cover !important;        /* scale image to cover footer */
+  background-repeat: no-repeat !important;  /* prevent tiling */
   background-position: center center !important;
-  background-attachment: scroll !important;   /* allow image to scroll with page */
-  
-  min-height: 450px !important;               /* adjust height to show more of the image */
-  overflow: hidden !important;
+  background-attachment: scroll !important; /* stop fixed parallax effect */
+
+  /* Make footer taller */
+  min-height: 400px !important;            /* adjust as needed */
+  padding: 2rem 0 !important;
+
+  /* Ensure full width */
+  width: 100% !important;
 }

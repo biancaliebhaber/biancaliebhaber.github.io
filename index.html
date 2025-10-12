@@ -71,37 +71,44 @@ subtitle: Transforming data into actionable insights.<br/>
 </div>
 
 <style>
-  /* Center carousel and limit width */
+  /* Center carousel and allow wider content */
   #recommendationCarousel {
-    max-width: 700px;
-    margin: 80px auto; /* spacing top & bottom */
+    max-width: 900px;          /* increased width */
+    margin: 80px auto;         /* spacing top & bottom */
+    position: relative;
+  }
+
+  /* Carousel items styling */
+  #recommendationCarousel .carousel-item {
+    background-color: #f5f5f5; /* light gray */
+    padding: 2rem 4rem;        /* vertical + horizontal padding */
+    border-radius: 0.5rem;     /* rounded corners */
+    min-height: 150px;         /* ensure enough height */
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+  }
+
+  #recommendationCarousel .carousel-item p {
+    color: #242425;            /* dark text */
+    font-size: 1.05rem;
+    line-height: 1.6;
+    margin-bottom: 0.5rem;
   }
 
   /* Buttons pushed outside text */
   #recommendationCarousel .carousel-control-prev,
   #recommendationCarousel .carousel-control-next {
-    width: 5%;            /* shrink button clickable area */
+    width: 5%;                /* shrink button area */
     top: 50%;
     transform: translateY(-50%);
   }
 
-  /* Optional: smaller icons */
   #recommendationCarousel .carousel-control-prev-icon,
   #recommendationCarousel .carousel-control-next-icon {
     width: 1.5rem;
     height: 1.5rem;
-  }
-
-  /* Carousel item styling */
-  #recommendationCarousel .carousel-item {
-    background-color: transparent; /* keep background see-through */
-    text-align: center;
-  }
-
-  #recommendationCarousel .carousel-item p {
-    color: #242425; /* dark text */
-    font-size: 1.05rem;
-    line-height: 1.6;
   }
 </style>
 

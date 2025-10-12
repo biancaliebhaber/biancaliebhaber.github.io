@@ -1,7 +1,7 @@
 .custom-footer {
-  width: 100vw;                         /* full width of viewport */
+  width: 400vw;                         /* full width of viewport */
   min-height: 400px;                     /* adjust as needed */
-  background-image: url("/assets/img/bubbles3.jpg");
+  background-image: url("/assets/img/bubbles4.jpg");
   background-size: cover;                /* scale image to fill footer */
   background-repeat: no-repeat;          /* no tiling */
   background-position: center center;    /* center the image */

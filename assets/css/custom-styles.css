@@ -1,22 +1,16 @@
-/* Expand parent containers to full width */
-.footer-wrapper, .footer-inner, .footer {
+footer {
+  /* Ensure full width */
   width: 100vw !important;
-  margin-left: calc(-50vw + 50%) !important;
-  max-width: none !important;
-  padding: 0 !important;
-}
-
-/* Target the image container itself */
-.footer-img {
-  width: 100vw !important;
-  min-height: 400px !important;
+  max-width: 100% !important;
+  padding: 0 !important;       /* optional: remove internal padding if you want full coverage */
+  
+  /* Background image */
   background-image: url("/assets/img/bubbles3.jpg") !important;
-  background-size: cover !important;
-  background-repeat: no-repeat !important;
+  background-size: cover !important;          /* fill footer area */
+  background-repeat: no-repeat !important;    /* no tiling */
   background-position: center center !important;
-}
-
-/* Ensure no parent clipping */
-.footer, .footer-wrapper, .footer-inner {
-  overflow: visible !important;
+  background-attachment: scroll !important;   /* allow image to scroll with page */
+  
+  min-height: 450px !important;               /* adjust height to show more of the image */
+  overflow: hidden !important;
 }

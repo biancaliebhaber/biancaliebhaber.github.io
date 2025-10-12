@@ -1,0 +1,3 @@
+footer {
+  background-attachment: scroll !important;  /* overrides the fixed value */
+}

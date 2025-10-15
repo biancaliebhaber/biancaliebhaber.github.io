@@ -31,7 +31,7 @@ subtitle: Transforming data into actionable insights.<br/>
   <div class="carousel-inner">
 
     <div class="carousel-item active">
-      <div class="p-4 rounded shadow-sm" style="background-color: #f0f0f0;">
+      <div class="p-4 rounded shadow-sm testimonial-bg">
         <p class="text-dark fst-italic">
           “Whether she is asking detailed clarifying questions, finding possible bugs, or making suggestions about features to add, the dialogue that I've had with Bianca has made a significant impact on how I understand our stakeholders, and think about our team's roadmap.”
         </p>
@@ -40,7 +40,7 @@ subtitle: Transforming data into actionable insights.<br/>
     </div>
 
     <div class="carousel-item">
-      <div class="p-4 rounded shadow-sm" style="background-color: #f0f0f0;">
+      <div class="p-4 rounded shadow-sm testimonial-bg">
         <p class="text-dark fst-italic">
           “As the only business analyst in our engineering department, Bianca consistently pushed outside of her daily responsibilities to build technical skills and drive the success of her stakeholders through foundational analytics and metrics reporting.”
         </p>
@@ -49,7 +49,7 @@ subtitle: Transforming data into actionable insights.<br/>
     </div>
 
     <div class="carousel-item">
-      <div class="p-4 rounded shadow-sm" style="background-color: #f0f0f0;">
+      <div class="p-4 rounded shadow-sm testimonial-bg">
         <p class="text-dark fst-italic">
           “Bianca showcased her experience in Business Intelligence through goal-focused guidance for her stakeholders' operational planning, deep dive analyses to document and provide resolutions for metric outliers as well as automation and tools to allow colleagues to self-serve across their respective domains.”
         </p>
@@ -81,6 +81,16 @@ subtitle: Transforming data into actionable insights.<br/>
   }
 
   /* Carousel items styling */
+  /* test */
+ .testimonial-bg {
+  background-color: rgba(240, 240, 240, 0.65); /* light gray + transparency */
+  backdrop-filter: blur(2px);                 /* optional blur behind it */
+  border-radius: 0.5rem;
+  padding: 1.5rem;
+  transition: background-color 0.3s ease;
+}
+/* end test */
+
 #recommendationCarousel .carousel-item {
   padding: 1rem 2rem;
   border-radius: 0.5rem;

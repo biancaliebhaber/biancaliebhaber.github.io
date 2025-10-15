@@ -25,3 +25,91 @@ subtitle: Transforming data into actionable insights.<br/>
   <a class="btn btn-outline-dark btn-lg" href="/projects">Projects</a>
 </div>
 
+<!-- Testimonials Carousel -->
+<div id="recommendationCarousel" class="carousel slide" data-bs-ride="carousel" data-bs-interval="6000" style="margin-top: 100px; margin-bottom: 80px;">
+  <div class="carousel-inner">
+
+    <div class="carousel-item active">
+      <div class="p-4 rounded shadow-sm" style="background-color: #f0f0f0;">
+        <p class="text-dark fst-italic">
+          “Bianca consistently delivers high-quality analytics with clear business context. Her work transformed how our team understands customer engagement.”
+        </p>
+        <p class="fw-bold mb-0 text-dark">— Jane Doe, Marketing Director</p>
+      </div>
+    </div>
+
+    <div class="carousel-item">
+      <div class="p-4 rounded shadow-sm" style="background-color: #f0f0f0;">
+        <p class="text-dark fst-italic">
+          “Bianca bridges the gap between data and storytelling — she has a unique ability to make complex insights actionable for non-technical teams.”
+        </p>
+        <p class="fw-bold mb-0 text-dark">— John Smith, Product Manager</p>
+      </div>
+    </div>
+
+    <div class="carousel-item">
+      <div class="p-4 rounded shadow-sm" style="background-color: #f0f0f0;">
+        <p class="text-dark fst-italic">
+          “Her dashboards became the go-to tool across departments. Bianca brings clarity, empathy, and excellence to every project she touches.”
+        </p>
+        <p class="fw-bold mb-0 text-dark">— Alex Chen, VP of Operations</p>
+      </div>
+    </div>
+
+  </div>
+
+  <!-- Carousel Controls -->
+  <button class="carousel-control-prev" type="button" data-bs-target="#recommendationCarousel" data-bs-slide="prev">
+    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+    <span class="visually-hidden">Previous</span>
+  </button>
+
+  <button class="carousel-control-next" type="button" data-bs-target="#recommendationCarousel" data-bs-slide="next">
+    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+    <span class="visually-hidden">Next</span>
+  </button>
+</div>
+
+<style>
+  /* Center carousel and allow wider content */
+  #recommendationCarousel {
+    max-width: 900px;
+    margin: 100px auto;
+    position: relative;
+    background-color: #755338; /* currently brown - need to make outer or inner box transparent */
+  }
+
+  /* Carousel items styling */
+  #recommendationCarousel .carousel-item {
+    padding: 2rem 3rem;
+    border-radius: 0.5rem;
+    min-height: 150px;
+    text-align: center;
+    display: block;
+    background-color: transparent; /* keep background see-through */
+  }
+
+  #recommendationCarousel .carousel-item p {
+    color: #c91a4f;
+    font-size: 1.05rem;
+    line-height: 1.6;
+    margin-bottom: 0.5rem;
+  }
+
+  /* Buttons pushed outside text */
+  #recommendationCarousel .carousel-control-prev,
+  #recommendationCarousel .carousel-control-next {
+    width: 5%;
+    top: 50%;
+    transform: translateY(-50%);
+  }
+
+  #recommendationCarousel .carousel-control-prev-icon,
+  #recommendationCarousel .carousel-control-next-icon {
+    width: 3rem;
+    height: 1.5rem;
+  }
+</style>
+
+<!-- Bootstrap JS bundle (includes Carousel functionality) -->
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>

@@ -77,7 +77,7 @@ subtitle: Transforming data into actionable insights.<br/>
     max-width: 900px;
     margin: 100px auto;
     position: relative;
-    /*background-color: #755338;  currently brown - need to make outer or inner box transparent */
+    /*background-color: transparent;  -- doesnt work unless commented out */
   }
 
   /* Carousel items styling */
@@ -92,8 +92,15 @@ subtitle: Transforming data into actionable insights.<br/>
   justify-content: center; /* horizontally center text */
 }
 
+ /* Inner text box with subtle transparency */
+  #recommendationCarousel .carousel-item > div {
+    background-color: rgba(240, 240, 240, 0.7); /* 🔹 light gray w/ transparency */
+    border-radius: 0.5rem;
+    padding: 1.5rem;
+  }
+
   #recommendationCarousel .carousel-item p {
-    color: #c91a4f;
+    color: #242425;
     font-size: 1.05rem;
     line-height: 1.6;
     margin-bottom: 0.5rem;

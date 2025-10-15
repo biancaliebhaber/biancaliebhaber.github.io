@@ -26,7 +26,7 @@ title: Resume
  <br/>
  <br/> 
 <img align="left" width="75" height="75" src="https://biancaliebhaber.github.io/assets/img/amazon_music.png">
- &nbsp; &nbsp;<b>Amazon |</b><br/>, Seattle, WA<br/> 
+ &nbsp; &nbsp;<b>Amazon</b>, Seattle, WA <br/> 
  &nbsp; &nbsp;Jan 2019 - Jan 2024
  <br/> 
  <br/>

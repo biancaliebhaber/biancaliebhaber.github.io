@@ -26,7 +26,9 @@ subtitle: Transforming data into actionable insights.<br/>
 </div>
 
 <!-- Testimonials Carousel -->
-<div id="recommendationCarousel" class="carousel slide" data-bs-ride="carousel" data-bs-interval="6000" style="margin-top: 100px; margin-bottom: 80px;">
+<!--<div id="recommendationCarousel" class="carousel slide" data-bs-ride="carousel" data-bs-interval="6000" style="margin-top: 100px; margin-bottom: 80px;">-->
+<div id="recommendationCarousel" class="carousel slide carousel-fade" data-bs-ride="carousel" data-bs-interval="6000">
+
   <div class="carousel-inner">
 
     <div class="carousel-item active">
@@ -76,18 +78,17 @@ subtitle: Transforming data into actionable insights.<br/>
     max-width: 900px;
     margin: 100px auto;
     position: relative;
-    background-color: #755338; /* currently brown - need to make outer or inner box transparent */
+    /*background-color: #755338;  currently brown - need to make outer or inner box transparent */
   }
 
   /* Carousel items styling */
-  #recommendationCarousel .carousel-item {
-    padding: 2rem 3rem;
-    border-radius: 0.5rem;
-    min-height: 150px;
-    text-align: center;
-    display: block;
-    background-color: transparent; /* keep background see-through */
-  }
+#recommendationCarousel .carousel-item {
+  padding: 2rem 3rem;
+  border-radius: 0.5rem;
+  min-height: 150px;
+  text-align: center;
+  background-color: transparent; /* keep background see-through */
+}
 
   #recommendationCarousel .carousel-item p {
     color: #c91a4f;

@@ -82,7 +82,7 @@ subtitle: Transforming data into actionable insights.<br/>
 
   /* Carousel items styling */
 #recommendationCarousel .carousel-item {
-  padding: 1.5rem 2.5rem;
+  padding: 1rem 2rem;
   border-radius: 0.5rem;
   min-height: 200px;
   text-align: center;
@@ -102,14 +102,23 @@ subtitle: Transforming data into actionable insights.<br/>
   /* Buttons pushed outside text */
   #recommendationCarousel .carousel-control-prev,
   #recommendationCarousel .carousel-control-next {
-    width: 10%;
+    width: 12%;
     top: 50%;
     transform: translateY(-50%);
+  }
+  
+    /* Adjust arrow placement inside button area */
+  #recommendationCarousel .carousel-control-prev {
+    left: -2rem; /* 🔹 push arrow slightly outward */
+  }
+
+  #recommendationCarousel .carousel-control-next {
+    right: -2rem; /* 🔹 push arrow slightly outward */
   }
 
   #recommendationCarousel .carousel-control-prev-icon,
   #recommendationCarousel .carousel-control-next-icon {
-    width: 2.5rem;
+    width: 2rem;
     height: 2rem;
   }
 </style>

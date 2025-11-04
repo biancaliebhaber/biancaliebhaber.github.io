@@ -4,7 +4,7 @@ title: About Me
 subtitle: Passionate Professional in Business Intelligence.
 ---
 
-![b&k.png](https://biancaliebhaber.github.io/assets/img/b&k.png){: .mx-auto.d-block :}
+![b&k.png](https://biancaliebhaber.github.io/assets/img/bianca_larches_2025.jpg){: .mx-auto.d-block :}
 
 ## About Bianca Liebhaber
 

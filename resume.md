@@ -14,19 +14,19 @@ title: Resume
 ## Professional Experience
 ***
 <img align="left" width="75" height="75" src="https://biancaliebhaber.github.io/assets/img/pitchbook_logo.png">
- &nbsp; &nbsp;<b>PitchBook Data</b>, Seattle, WA <br/> 
+ &nbsp; &nbsp;<b>PitchBook Data<br/> 
  &nbsp; &nbsp;May 2024 - Present<br/> 
  &nbsp; &nbsp;<i>Senior Data Analyst</i>
  <br/>
  <br/> 
 <img align="left" width="75" height="75" src="https://biancaliebhaber.github.io/assets/img/barberent.jpg">
- &nbsp; &nbsp;<b>Barber Consulting Group</b>, Redmond, WA <br/> 
+ &nbsp; &nbsp;<b>Barber Consulting Group<br/> 
  &nbsp; &nbsp;Feb 2017 - Present<br/> 
  &nbsp; &nbsp;<i>Music Programming Lead</i>
  <br/>
  <br/> 
 <img align="left" width="75" height="75" src="https://biancaliebhaber.github.io/assets/img/amazon_music.png">
- &nbsp; &nbsp;<b>Amazon</b>, Seattle, WA <br/> 
+ &nbsp; &nbsp;<b>Amazon<br/> 
  &nbsp; &nbsp;Jan 2019 - Jan 2024
  <br/> 
  <br/>
@@ -47,7 +47,7 @@ title: Resume
  <br/>
  <br/> 
  <img align="left" width="75" height="75" src="https://biancaliebhaber.github.io/assets/img/medianet.jpeg">
- &nbsp;&nbsp;<b>MediaNet</b>, Seattle, WA <br/> 
+ &nbsp;&nbsp;<b>MediaNet<br/> 
  &nbsp;&nbsp;Sep 2017 - Dec 2018<br/> 
  &nbsp;&nbsp;<i>Music Content Coordinator</i>
 

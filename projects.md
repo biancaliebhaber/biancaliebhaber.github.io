@@ -6,9 +6,9 @@ subtitle: Explore some of my work outside the office.
 ## Projects & Write-ups
 ***
 🎵 **How I Built a Slack Bot to Crowdsource Music — and Survived Corporate SSL**<br/>
-*A Slack bot that automatically adds Spotify tracks shared in a Slack channel to a playlist* | February 2026<br/>
+*A Slack bot that automatically adds Spotify tracks shared in a Slack channel to a playlist.*<br/><br/>
 👉 [Read the full write-up on Medium](https://medium.com/@bianca.liebhaber/how-i-built-a-slack-bot-to-crowdsource-music-and-survived-corporate-ssl-ce672116b6c9)
-![slack-spotify-diagram.png](https://biancaliebhaber.github.io/assets/img/slack-spotify-diagram.png){: .mx-auto.d-block :}<br/><br/>
+![slack-spotify-diagram.png](https://biancaliebhaber.github.io/assets/img/slack-spotify-diagram.png){: .mx-auto.d-block :} <br/><br/>
 
 ## Data Visualizations
 ***

@@ -15,8 +15,8 @@ subtitle: Explore some of my work outside the office.
 🗓️ **Group Chat Wrapped**<br/>
 *A chat thread analysis between friends. Inspired by Spotify's annual Wrapped feature.*<br/><br/>
 **2024 Group Chat Wrapped** | Date posted: January 2025<br/>
-View the project on [Tableau Public](https://public.tableau.com/views/GroupChatWrapped2024_17476120121300/Cover?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link).
+View the project on [Tableau Public](https://public.tableau.com/views/GroupChatWrapped2024_17476120121300/Cover?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 ![group_chat_wrapped_2024.png](https://biancaliebhaber.github.io/assets/img/group_chat_wrapped_2024.png){: .mx-auto.d-block :}<br/><br/>
 **Group Chat Wrapped 2022-23** | Date posted: January 2024<br/>
-View the project on [Tableau Public](https://public.tableau.com/views/GroupChatWrappedDesktop/Cover?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link).<br/>
+View the project on [Tableau Public](https://public.tableau.com/views/GroupChatWrappedDesktop/Cover?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)<br/>
 ![group_chat_wrapped_2022_23.png](https://biancaliebhaber.github.io/assets/img/group_chat_wrapped_2022_23.png){: .mx-auto.d-block :}

@@ -4,7 +4,7 @@ title: About Me
 subtitle: Passionate Professional in Business Intelligence.
 ---
 
-![Bike](/assets/img/bike.jpg){:.mx-auto.d-block}
+![Rooftop](/assets/img/rooftop_liebhaber_2026.png){:.mx-auto.d-block}
 
 ## About Bianca Liebhaber
 
@@ -15,7 +15,8 @@ Bianca Liebhaber is a Senior Data Analyst with 8+ years of experience in Busines
 Driven by curiosity and a passion for learning, Bianca excels when leveraging her full analytics stack to identify trends, optimize processes, and inform strategic decision-making.
 
 🔍 **Public Speaking & Leadership**
-An active member of Toastmasters, Bianca is committed to developing leadership and communication skills. She enjoys mentoring others, delivering talks at company events, and fostering environments where people feel confident to share their voice.
+Bianca spent five years in Toastmasters, including a term as chapter president, where she developed strong communication and leadership skills. She continues to apply those skills through mentoring and speaking at company and community events. Most recently, she presented at a Women in STEM career development event, sharing her non-linear path from research science to data analytics and lessons on building confidence in technical careers.
+💡 [IGNITE Worldwide: Women in STEM field trip](https://www.igniteworldwide.org/2025/11/20/pitchbook-field-trip/)
 
 💪 **Community & Personal Interests**
 Bianca founded Iron Betties, a weightlifting club for women and non-binary lifters, where she led monthly sessions on compound lifts and cultivated a supportive community. The group continues to engage members through meetups, encouragement, and merchandise sales benefiting the Seattle nonprofit Young Women Empowered (Y-WE).
